@@ -6,7 +6,7 @@ or just simplifiying huge blocks of text to one that a fourth grader could under
 MADE FOR THE VERITASAI HACKATHON - 2026:
   LANGUAGES SECTOR
 
-created by Kashyap Jimesh, Shaurya Gupta, and Prakrit Maheshwari [MAYOOR PVT ABUDHABI]
+created by Kashyap Jimesh (me!!), Shaurya Gupta, and Prakrit Maheshwari [MAYOOR PVT ABUDHABI]
 
 
 Some screenshots demonstrating it:
