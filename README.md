@@ -4,7 +4,7 @@ sigmund translator is a language assistant designed to make communication easier
 or just simplifiying huge blocks of text to one that a fourth grader could understand, sigmunds got your back. 
 
 MADE FOR THE VERITASAI HACKATHON - 2026:
-  LANGUAGES SECTOR
+  LANGUAGES SECTION
 
 created by Kashyap Jimesh (me!!), Shaurya Gupta, and Prakrit Maheshwari [MAYOOR PVT ABUDHABI]
 
